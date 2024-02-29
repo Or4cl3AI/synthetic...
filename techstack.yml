@@ -2,7 +2,7 @@ repo_name: Or4cl3AI/synthetic2
 report_id: c8eae02dda2dd3496ed17ccfcb1cec43
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:34:12+00:00'
+timestamp: '2024-02-29T18:53:53+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -20,7 +20,7 @@ tools:
   detection_source_url: https://github.com/Or4cl3AI/synthetic2
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.7
   open_source: true
